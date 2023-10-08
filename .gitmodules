@@ -1,0 +1,9 @@
+[submodule "IC-training"]
+	path = IC-training
+	url = https://github.com/weini1234/IC-training.git
+[submodule "E203_tangMega138"]
+	path = E203_tangMega138
+	url = https://github.com/vackyzhao/E203_tangMega138K.git
+[submodule "PE_module"]
+	path = PE_module
+	url = https://github.com/vackyzhao/PE_module.git
